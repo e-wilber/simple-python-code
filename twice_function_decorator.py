@@ -21,4 +21,4 @@ def run_twice(func):
 def greet(name):
     print(f"Hi {name}!")
 # Calling the decorated function
-greet("Professor Buys")
+greet("GitHub")

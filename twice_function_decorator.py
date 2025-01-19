@@ -2,12 +2,6 @@
 * Name         : twice_function_decorator.py
 * Author       : E Wilber
 * Created      : 01/19/25
-* Module       : 1
-* Topic        : 7
-* Description  : Do it Twice Function Decorator Assignment
-* Academic Honesty: I attest that this is my original work.
-* I have not used unauthorized source code, either modified or
-* unmodified.
 """
 #Defining the decorator
 def run_twice(func):

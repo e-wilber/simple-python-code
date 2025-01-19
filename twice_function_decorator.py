@@ -3,6 +3,7 @@
 * Author       : E Wilber
 * Created      : 01/19/25
 """
+
 #Defining the decorator
 def run_twice(func):
     def wrapper(*args, **kwargs):

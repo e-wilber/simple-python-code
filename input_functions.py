@@ -2,13 +2,7 @@
 * Name         : input_functions.py
 * Author       : E Wilber
 * Created      : 01/19/25
-* Module       : 1
-* Topic        : 6
-* Description  : Gathering Input Functions Assignment
-*
-* Academic Honesty: I attest that this is my original work.
-* I have not used unauthorized source code, either modified or
-* unmodified.
+* Description  : Gathering Input Functions
 """
 print("Find the average of some integers.")
 def get_num_of_ints():
